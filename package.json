@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Multimedia-Engineering-Regensburg-Tasks/MME-WS1920-Task-1-Countdown-Starter.git"
+    "url": "git+https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U03-Countdown-Starter.git"
   },
   "author": "Alexander Bazo <alexander.bazo@ur.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/MME-WS1920-Task-1-Countdown-Starter/issues"
+    "url": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U03-Countdown-Starter/issues"
   },
-  "homepage": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/MME-WS1920-Task-1-Countdown-Starter#readme",
+  "homepage": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U03-Countdown-Starter#readme",
   "dependencies": {
     "eslint": "^7.1.0",
     "http-server": "^0.12.3"
