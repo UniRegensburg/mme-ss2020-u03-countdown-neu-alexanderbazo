@@ -1,4 +1,4 @@
-# Erste Übungsaufgabe: Countdown
+# Dritte Übungsaufgabe: Countdown
 
 Die Anleitung zur Aufgabe (*Handout*) finden Sie [hier](https://regensburger-forscher.de/mme/Aufgaben/SS20-03-Countdown/). 
 
