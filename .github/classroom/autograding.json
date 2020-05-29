@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check Code Style",
+      "setup": "npm install",
+      "run": "npm run-script eslint",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
